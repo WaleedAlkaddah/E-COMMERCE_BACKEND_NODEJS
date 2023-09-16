@@ -1,4 +1,5 @@
-1- Make sure Node JS is installed in your device.
-2- Open project with compiler like Visual studio.
-3- Run.
-4- Enjoy!.
+1- Just BackEnd.
+2- Make sure Node JS is installed in your device.
+3- Open project with compiler like Visual studio.
+4- Run.
+5- Enjoy!.
